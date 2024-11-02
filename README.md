@@ -1,5 +1,5 @@
 # QA - Gemini RAG
-QA -Gemini RAG is a RAg based application which uses Gemini Pro API with Streamlit-based application that allows users to chat with a conversational AI model trained on PDF documents. The chatbot extracts information from uploaded PDF files and answers user questions based on the provided context.
+QA -Gemini RAG is a RAG based application which uses Gemini Pro API with Streamlit-based application that allows users to chat with a conversational AI model trained on PDF documents. The chatbot extracts information from uploaded PDF files and answers user questions based on the provided context.
 <img src="https://github.com/PARTHIBAN-007/QA-Gemini-RAG/blob/main/Assets/RAG1.png">
 <img src="https://github.com/PARTHIBAN-007/QA-Gemini-RAG/blob/main/Assets/RAG2.png">
 <img src="https://github.com/PARTHIBAN-007/QA-Gemini-RAG/blob/main/Assets/RAG3.png">
