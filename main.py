@@ -60,7 +60,6 @@ def user_input(user_question):
     st.write("Response",response["output_text"])
 
 
-
 def main():
     st.set_page_config("RAG")
     user_question = st.text_input("Ask Question from The PDF")
